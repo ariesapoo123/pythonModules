@@ -1,0 +1,10 @@
+import math
+n = int(input("Enter the number"))
+print(math.factorial(n))
+
+
+
+output
+
+Enter the number7
+5040
