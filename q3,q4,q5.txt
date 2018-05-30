@@ -1,0 +1,12 @@
+import datetime
+d = datetime.date.today()
+print("Month of year: ", d.strftime("%B"))
+print("Day of year: ", d.strftime("%A"))
+print("Date of year: ", d.strftime("%d"))
+
+
+output
+
+Month of year:  May
+Day of year:  Wednesday
+Date of year:  30
